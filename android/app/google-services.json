@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790561105057",
+    "project_id": "push-app-59d06",
+    "storage_bucket": "push-app-59d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790561105057:android:bcedbc28f09d3b74773ce0",
+        "android_client_info": {
+          "package_name": "com.fredericklombar.pushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790561105057-rr03sdsckfiledpa63vk1cpiefnaptqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fredericklombar.pushapp",
+            "certificate_hash": "49bbd46a862d310d4270b268afd6eae83b1ec98b"
+          }
+        },
+        {
+          "client_id": "790561105057-a6rrec7q374mu42m60ddn71kc3k30klo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiRCemneKH48oQXZlX6n3C5ga04jL66sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790561105057-a6rrec7q374mu42m60ddn71kc3k30klo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
